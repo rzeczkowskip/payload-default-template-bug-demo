@@ -1,2 +1,2 @@
-import breakingPluginDemo from './plugin.ts';
+import breakingPluginDemo from './plugin.js';
 export default breakingPluginDemo;
